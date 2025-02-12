@@ -22,5 +22,3 @@ Languages/Skills used:
 8. JSON
 
 
-
-Developed by: Manu Arora and Yash Saluja
